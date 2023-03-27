@@ -1,1 +1,3 @@
-game:Destroy()
+repeat
+print("Hello everybody")
+until 1 == 2
